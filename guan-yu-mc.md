@@ -7,9 +7,9 @@ icon: circle-info
 
 <figure><img src="https://postimg.cc/k6NLKrYF" alt=""><figcaption></figcaption></figure>
 
-<figure><img src=".gitbook/assets/Minecraft_Trails&#x26;Tales_.Net_2058x1440.png" alt=""><figcaption></figcaption></figure>
-
 ### <i class="fa-circle-info">:circle-info:</i>**什么是MC？**
+
+<figure><img src=".gitbook/assets/Minecraft_Trails&#x26;Tales_.Net_2058x1440.png" alt=""><figcaption></figcaption></figure>
 
 **Minecraft（俗称：MC）是一款由Mojang Studios开发的3D沙盒电子游戏。**
 
