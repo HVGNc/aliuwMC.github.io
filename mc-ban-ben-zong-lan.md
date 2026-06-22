@@ -3,7 +3,7 @@ description: 此处记录了已经发布的MC各个版本
 icon: rotate
 coverY: 0
 layout:
-  width: wide
+  width: default
   cover:
     visible: false
     size: full
